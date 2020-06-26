@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stories_titles">
+    <item> The Boy Who Cried Wolf </item>
+    <item> The Midas Touch </item>
+    <item> The Golden Egg </item>
+    <item> The Miser And His Gold </item>
+    <item> The Tortoise And The Bird </item>
+    <item> The Cows And The Tiger </item>
+    <item> The Four Students </item>
+    <item> The Boasting Traveler (Aesop’s Fables) </item>
+    <item> The Camel And The Baby </item>
+    <item> The Farmer And The Well </item>
+    <item> True Friends Love You Anyway </item>
+    <item> Elephant And Friends </item>
+        <item> The Wolf And The Shepherds </item>
+    <item> The Young Crab And His Mother </item>
+    <item>  The Other Side Of The Wall </item>
+    </string-array>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
